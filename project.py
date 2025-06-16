@@ -7,7 +7,7 @@ Created on Sun Mar 14 16:58:26 2021
 """
 
 Artificial Neural Network (ANN) Model development using CEPF data
-Augusto Souza - Purdue University, Institute for Plant Sciences
+Augusto Souza - Purdue University, Institute for Plant Sciences Edited by Maria Zea
 
 
 import pandas as pd
